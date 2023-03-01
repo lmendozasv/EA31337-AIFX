@@ -13,6 +13,7 @@
 ## Introduction
 
 EA31337 is an advanced trading robot for Forex markets written in MQL.
+Thanks to @lmendozasv for joining AI in this bot
 
 ## About the project
 
